@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-Check my top10 languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysose&lang_count=10)](https://github.com/kysose/github-readme-stats)
+Check my top languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysose&langs_count=10)](https://github.com/kysose/github-readme-stats)
 
 
 <!--
