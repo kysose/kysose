@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+Check what languages I've used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysose)](https://github.com/kysose/github-readme-stats)
 
 <!--
 **kysose/kysose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
