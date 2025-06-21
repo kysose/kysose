@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-Check my top languages:
+Check my top languages (public only):
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysose&langs_count=10)](https://github.com/kysose/github-readme-stats)
+
+I have a lot more of C# and especially Python in private repos :D
 
 
 <!--
